@@ -28,7 +28,7 @@ public class JpqlMain {
 //            //Criteria 사용 준비 => Criteria 사용 X !
 //            CriteriaBuilder cb = em.getCriteriaBuilder();
 //            CriteriaQuery<Member> query = cb.createQuery(Member.class);
-//
+//.
 //            // 루트 클래스 (조회 시작할 클래스)
 //            Root<Member> m = query.from(Member.class);
 //
