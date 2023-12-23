@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62aa90b2-1ef1-43be-9ae5-7dc1be1d364c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../login/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/LoginApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/controller/CookieLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/controller/SessionLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/domain/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/domain/dto/JoinRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/domain/dto/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/java/practice/login/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/templates/admin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/templates/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/templates/join.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/main/resources/templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../login/src/test/java/practice/login/LoginApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZQOlC7wvmTSr6FyM7dAr5Bfbav" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/anchangmin/Desktop/BackEnd/JPA/ex1-hello-jpa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hellojpa" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JpqlMain">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMain" />
+      <module name="jpql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaMainBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.JpaMainBasic" />
+      <module name="jpql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpqlMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.JpqlMain" />
+      <module name="jpql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hellojpa.ValueMain" />
+      <module name="jpql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hellojpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpqlMain" />
+        <item itemvalue="Application.JpaMain" />
+        <item itemvalue="Application.ValueMain" />
+        <item itemvalue="Application.JpaMainBasic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62aa90b2-1ef1-43be-9ae5-7dc1be1d364c" name="Changes" comment="" />
+      <created>1702350985264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702350985264</updated>
+      <workItem from="1702350986483" duration="6827000" />
+      <workItem from="1702363759566" duration="2722000" />
+      <workItem from="1702381557038" duration="6461000" />
+      <workItem from="1702430237240" duration="9638000" />
+      <workItem from="1702477794350" duration="6000" />
+      <workItem from="1702478314622" duration="14697000" />
+      <workItem from="1702619500708" duration="30000" />
+      <workItem from="1702619539813" duration="10000" />
+      <workItem from="1702619551982" duration="638000" />
+      <workItem from="1702620534736" duration="49699000" />
+      <workItem from="1703218884654" duration="597000" />
+      <workItem from="1703227778116" duration="5139000" />
+      <workItem from="1703305235561" duration="609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

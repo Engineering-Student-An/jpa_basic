@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.2"
+             xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
+    <persistence-unit name="hello">
+        <properties>
+            <!-- 필수 속성 -->
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
+            <property name="javax.persistence.jdbc.user" value="jpauser"/>
+            <property name="javax.persistence.jdbc.password" value="justiff0801"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpaDB"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>
+            <!-- 옵션 -->
+            <property name="hibernate.show_sql" value="true"/>          <!-- 실행창에 실제 날리는 DB 쿼리를 출력해줌 -->
+            <property name="hibernate.format_sql" value="true"/>        <!-- 쿼리가 출력되는 형태를 이쁘게 잡아줌 -->
+            <property name="hibernate.use_sql_comments" value="true"/>  <!-- 주석을 통해서 무슨 쿼리가 나온건지 알려줌 -->
+            <property name="hibernate.jdbc.batch_size" value="10"/>     <!-- batch size만큼 모아서 한 방에 네트워크로 쿼리 전송하고 DB 커밋 (버퍼링 기능) -->
+            <property name="hibernate.hbm2ddl.auto" value="create" />
+        </properties>
+    </persistence-unit>
+</persistence>
